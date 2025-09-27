@@ -28,7 +28,7 @@ This project is designed as a beginner-friendly practice to understand DOM manip
 ---
 
 🌐 Live Demo  
-Play the game here 👉 [Rock Paper Scissors Live](https://your-github-username.github.io/Rock-Paper-Scissors/)  
+Play the game here 👉 [Rock Paper Scissors Live](https://arbab-mav.github.io/Rock-Paper-Scissors-game/)  
 
 ---
 
